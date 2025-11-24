@@ -64,3 +64,69 @@
 +```
 +
 +Generate an app logo and update the app metadata title and description.
+
+# 2025-11-24 13:29:21.204483
++Code the following app
++```
++Title: DCA Planner Lite
++
++Description:
++Create a simple app that helps users plan their Dollar-Cost Averaging (DCA) strategy. The app should work entirely offline and must not use the internet or external APIs. All data is manually entered by the user.
++
++Functionality:
++ • Display three input fields:
++ 1. “Token Name”
++ 2. “Investment Amount per Period”
++ 3. “Number of Periods”
++ • Add a button labeled “Add Plan”. When clicked, the app calculates:
++ • Total Investment = Investment Amount × Number of Periods
++ • Show the results in a section titled “Your DCA Plans”, where each entry includes:
++ • Token Name
++ • Investment Amount per Period
++ • Number of Periods
++ • Total Investment
++ • Each plan should have a “Delete” button allowing the user to remove that specific entry.
++ • Add a “Clear All” button to remove all DCA plans.
++ • If any required field is empty or invalid, show a message:
++“Please fill in all fields with valid numbers.”
++
++UI Requirements:
++ • Use simple UI: text fields, labels, buttons, and a list.
++ • Keep the layout clean and easy to understand.
++ • All calculations and updates must happen locally inside the app.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-24 13:29:21.205147
++Code the following app
++```
++Title: DCA Planner Lite
++
++Description:
++Create a simple app that helps users plan their Dollar-Cost Averaging (DCA) strategy. The app should work entirely offline and must not use the internet or external APIs. All data is manually entered by the user.
++
++Functionality:
++ • Display three input fields:
++ 1. “Token Name”
++ 2. “Investment Amount per Period”
++ 3. “Number of Periods”
++ • Add a button labeled “Add Plan”. When clicked, the app calculates:
++ • Total Investment = Investment Amount × Number of Periods
++ • Show the results in a section titled “Your DCA Plans”, where each entry includes:
++ • Token Name
++ • Investment Amount per Period
++ • Number of Periods
++ • Total Investment
++ • Each plan should have a “Delete” button allowing the user to remove that specific entry.
++ • Add a “Clear All” button to remove all DCA plans.
++ • If any required field is empty or invalid, show a message:
++“Please fill in all fields with valid numbers.”
++
++UI Requirements:
++ • Use simple UI: text fields, labels, buttons, and a list.
++ • Keep the layout clean and easy to understand.
++ • All calculations and updates must happen locally inside the app.
++```
++
++Generate an app logo and update the app metadata title and description.
